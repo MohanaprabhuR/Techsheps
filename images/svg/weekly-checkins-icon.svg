@@ -1,0 +1,20 @@
+<svg id="weekly-checkins-icon.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="30" viewBox="0 0 26 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="533" y1="3952" x2="559" y2="3926" gradientUnits="userSpaceOnUse">
+      <stop offset="-0.25" stop-color="#fc5441"/>
+      <stop offset="1.25" stop-color="#e93a80"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-1" cx="13" cy="17" r="12"/>
+  <path id="_24-time_-_stopwatch_timer" data-name="24-time - stopwatch timer" class="cls-2" d="M559,3941a13,13,0,1,1-14-12.9V3926h-3a1,1,0,0,1,0-2h4s0-.01,0-0.01,0,0.01,0,.01h4a1,1,0,0,1,0,2h-3v2.1A12.958,12.958,0,0,1,559,3941Zm-13-11a11,11,0,1,0,11,11A11,11,0,0,0,546,3930Zm5,18.48V3946h-0.111A6.993,6.993,0,0,0,546,3934v-2A9,9,0,0,1,551,3948.48Zm-4-7.48v8a1,1,0,0,1-2,0v-8A1,1,0,0,1,547,3941Zm-1,9h0Z" transform="translate(-533 -3924)"/>
+</svg>

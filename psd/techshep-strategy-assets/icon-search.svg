@@ -1,0 +1,16 @@
+<svg id="icon-search.svg" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a2a8ae;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1346,13a5,5,0,1,1-5,5A5,5,0,0,1,1346,13Z" transform="translate(-1340 -12)"/>
+  <path id="Shape_2_copy" data-name="Shape 2 copy" class="cls-1" d="M1350,22l4,4" transform="translate(-1340 -12)"/>
+</svg>

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>image</title>
+    <meta content="width=device-width, initialscale=1" name="viewport">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/media-query.css">
+</head>
+<style>
+.item {
+    width: 220px;
+    margin: 10px;
+    float: left;
+}
+
+.item img {
+    width: 400px;
+    height: 400px;
+    padding-left:20px;
+    padding-right: 20px;
+}
+</style>
+
+<body>
+    <div id="container">
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div><div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+        <div class="item">
+            <img src="images/hero-img.jpg">
+        </div>
+    </div>
+    <script src="localhost/techshep/ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+    <script src="localhost/techshep/jquery.masonry.min.js"></script>
+    </script>
+</body>
+
+</html>
+<script>
+    $(function(){
+  $('#container').masonry({
+    // options
+    itemSelector : '.item',
+    columnWidth : 240
+  });
+});
+
+
+var $container = $('#container');
+$container.imagesLoaded(function(){
+  $container.masonry({
+    itemSelector : '.item',
+    columnWidth : 240
+  });
+});
+</script>

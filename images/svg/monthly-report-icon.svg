@@ -1,0 +1,21 @@
+<svg id="monthly-report-icon.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="34" viewBox="0 0 32 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="530" y1="4157" x2="562" y2="4125" gradientUnits="userSpaceOnUse">
+      <stop offset="-0.25" stop-color="#31b744"/>
+      <stop offset="-0.246" stop-color="#31b744"/>
+      <stop offset="1.25" stop-color="#13c2ce"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="2" y="10" width="28" height="22"/>
+  <path id="report" class="cls-2" d="M560,4158H532a2,2,0,0,1-2-2v-28a2,2,0,0,1,2-2h6v-1a1,1,0,0,1,2,0v1h12v-1a1,1,0,0,1,2,0v1h6a2,2,0,0,1,2,2v28A2,2,0,0,1,560,4158Zm-22-30h-5a1,1,0,0,0-1,1v3h6v-4Zm14,0H540v4h12v-4Zm8,1a1,1,0,0,0-1-1h-5v4h6v-3Zm0,5H532v21a1,1,0,0,0,1,1h26a1,1,0,0,0,1-1v-21Zm-7,15a2,2,0,1,1,2-2A2,2,0,0,1,553,4149Zm-14-6a2,2,0,1,1,2-2A2,2,0,0,1,539,4143Z" transform="translate(-530 -4124)"/>
+</svg>

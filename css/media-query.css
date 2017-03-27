@@ -1,0 +1,87 @@
+
+@media (max-width:760px){
+ h1{
+    font-size: 30px;
+} 
+h6{
+    font-size: 12px;
+}
+.accountable p {
+    max-width: 465px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: .03em;
+    opacity: 0.75;
+    color: #535b62;
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    font-weight: 400;
+}
+.accountable h2{
+    font-size: 20px;
+}
+.value-section h2{
+    font-size: 25px;
+}
+.value-section p {
+    letter-spacing: 0.05em;
+    opacity: 0.75;
+    color: #81878c;
+    font-family: "Helvetica Neue";
+    font-size: 12px;
+    padding-bottom: 20px;
+    line-height: 2em;
+}
+
+.value-section p:last-of-type {
+    margin-top: 30px;
+}
+}
+
+@media (max-width: 991px) {
+  h1{
+    font-size: 36px;
+} 
+h6{
+    font-size: 16px;
+}
+.accountable p {
+    max-width: 465px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: .03em;
+    opacity: 0.75;
+    color: #535b62;
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+    font-weight: 400;
+}
+.accountable h2{
+    font-size: 26px;
+}
+.metrics {
+    padding: 120px 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.value-section h2{
+    font-size: 30px;
+}
+.value-section p {
+    letter-spacing: 0.05em;
+    opacity: 0.75;
+    color: #81878c;
+    font-family: "Helvetica Neue";
+    font-size: 18px;
+    padding-bottom: 20px;
+    line-height: 2em;
+}
+
+.value-section p:last-of-type {
+    margin-top: 30px;
+}
+
