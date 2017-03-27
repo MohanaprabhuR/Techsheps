@@ -446,7 +446,6 @@ ul {
     top: 50%;
     transform: translateY(-50%);
 }
-
 .report h2 {
     color: #060606;
     font-family: "Neue Helvetica W01", Helvetica, Arial, sans-serif;
@@ -455,7 +454,6 @@ ul {
     line-height: 55px;
     margin-top: 20px;
 }
-
 .reporting-row h3 {
     color: #2f363f;
     font-family: "Neue Helvetica W01", Helvetica, Arial, sans-serif;
@@ -463,7 +461,6 @@ ul {
     font-weight: 400;
     line-height: 28px;
 }
-
 .reporting-row p {
     opacity: 0.75;
     color: #535b62;
@@ -472,13 +469,11 @@ ul {
     font-weight: 400;
     line-height: 25px;
 }
-
 .reporting-row {
     position: relative;
     padding-left: 45px;
     background-repeat: no-repeat;
 }
-
 .report-weekly {
     background-image: url('../images/svg/weekly-checkins-icon.svg');
 }
@@ -490,11 +485,9 @@ ul {
 .reporting-quarterly {
     background-image: url('../images/svg/quarterly-icon.svg');
 }
-
 .reporting-analytics {
     background-image: url('../images/svg/an.svg');
 }
-
 .reporting-row:last-of-type {
     margin-top: 50px;
 }
